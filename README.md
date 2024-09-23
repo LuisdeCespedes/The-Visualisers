@@ -1,52 +1,101 @@
-![alt text](image.png)
-
+![alt text](image-3.png)
 
 # Team Manifesto: The Visualisers
 
+**🎨 Slogan:** *"Turning ideas into captivating realities, one pixel at a time."*
 
-**Slogan**: *"Turning ideas into captivating realities, one pixel at a time."*
+---
 
-## Members and Skills
-- **Lana**: Front-end Engineer, UI/UX, User-Centred Design  
-- **Dionne**: Project Manager, UI/UX Design, Full Stack  
-- **Aaron**: Front-end Engineer, UI/UX, User-Centred Design  
-- **Luisde**: CSS, Front-end Engineer, HTML, AI, Project Manager  
+## 👥 Members and Skills
 
-## Decision Making
-- **Dot Voting**: We use dot voting for decision-making, ensuring that every voice is heard and we make fair, collective choices.
+| Name    | Role                       | Skills                                |
+|---------|----------------------------|---------------------------------------|
+| **Lana**   | Front-end Engineer, UI/UX | User-Centred Design                   |
+| **Dionne** | Project Manager, Full Stack | UI/UX Design, Full Stack Development   |
+| **Aaron**  | Front-end Engineer        | UI/UX, User-Centred Design            |
+| **Luisde** | Front-end Engineer, AI, PM | CSS, HTML, API Integration, AI        |
 
-## Team Values
-1. **No Judgement**: We create a safe space where all ideas are respected.
-2. **Empathy**: We actively listen to and support each other.
-3. **Inclusivity**: Our team embraces diverse perspectives and backgrounds.
-4. **Learning Experience for All**: We approach the project as a chance to grow and develop our skills together.
-5. **Effective Communication**: We regularly check in with each other to ensure alignment and transparency.
-6. **Realism with Limitations**: We dream big, but remain practical within our scope (Dream Room mindset).
+---
 
-## Tools
-- **Slack**: For daily communication.
-- **Zoom**: For virtual meetings and collaboration.
+## 🎯 Decision Making
 
-## Meeting Schedule
-- **Daily Stand-Ups**: Every morning to review progress and set goals.
-- **Additional Meetings**:  
-  - Dionne: Tuesday and Thursday afternoons  
-  - Lana: Thursday afternoons  
-  - Aaron: Ad-hoc based on availability  
+We use **Dot Voting** to ensure that each voice is heard and decisions are made efficiently.  
+🗳️ **Dot Voting** = Fair & Collective Choices
 
-## Expectations
-- **Lana**: Showcase a strong UI for her portfolio.
-- **Dionne**: Build a solid project to enhance her portfolio and deepen knowledge.
-- **Aaron**: Foster a collaborative environment where each member contributes equally.
-- **Luisde**: Master API calls and craft a flawless front-end experience.
+---
 
-## Handling Conflict Constructively
-- **Step 1**: Don't be stubborn about individual ideas; keep an open mind.
-- **Step 2**: Stick to decisions made through dot voting, even if you disagree.
-- **Step 3**: Remember the goal—it's not just about the project, it's about the learning experience.
+## 💡 Team Values
 
-## Roles and Responsibilities
-- **Dionne**: Project Manager, UI/UX Design, Full Stack  
-- **Lana**: Front-end Engineer, UI/UX, User-Centred Design  
-- **Aaron**: Front-end Engineer, UI/UX, User-Centred Design  
-- **Luisde**: Project Manager, AI Integration, Front-end Engineer  
+| Value                              | Status       |
+|-------------------------------------|--------------|
+| **No Judgement**                    | ✅ Active     |
+| **Empathy**                         | ✅ Embraced   |
+| **Inclusivity**                     | ✅ Core Value |
+| **Learning Experience for All**     | ✅ Ongoing    |
+| **Effective Communication**         | ✅ Prioritized|
+| **Realism with Limitations (Dream Room)** | ✅ Practical |
+
+---
+
+## 🛠️ Tools
+
+| Tool     | Purpose                |
+|----------|------------------------|
+| **Slack**  | Daily communication    |
+| **Zoom**   | Virtual meetings       |
+
+---
+
+## 📅 Meeting Schedule
+
+| Member   | Days Available            |
+|----------|---------------------------|
+| **Dionne** | Tuesday & Thursday afternoons |
+| **Lana**   | Thursday afternoons      |
+| **Aaron**  | Flexible, ad-hoc basis   |
+| **Everyone** | Daily Stand-ups (morning) |
+
+---
+
+## 🚀 Expectations
+
+| Member    | Personal Goal                            |
+|-----------|------------------------------------------|
+| **Lana**  | Build a stunning UI for her portfolio.    |
+| **Dionne**| Deliver a strong project, solidify skills.|
+| **Aaron** | Foster a collaborative team environment. |
+| **Luisde**| Master API calls and perfect front-end.   |
+
+---
+
+## ⚖️ Handling Conflict Constructively
+
+Even with disagreements, we **Disagree and Commit**! Here's how we manage conflicts:
+
+| Step  | Action                                                     |
+|-------|-------------------------------------------------------------|
+| 1     | Don’t be stubborn about individual ideas; stay open-minded. |
+| 2     | Respect the results of dot voting, even if there's disagreement. |
+| 3     | Remember the goal: It's about **learning**, not just the project. |
+
+---
+
+## 🔄 Roles and Responsibilities
+
+| Member     | Roles                         |
+|------------|--------------------------------|
+| **Dionne** | Project Manager, UI/UX Design, Full Stack |
+| **Lana**   | Front-end Engineer, UI/UX, User-Centred Design |
+| **Aaron**  | Front-end Engineer, UI/UX, User-Centred Design |
+| **Luisde** | Project Manager, AI Integration, Front-end Engineer |
+
+---
+
+### 🎉 Celebrating Success and Learning from Mistakes
+
+- **Celebrate Small Wins**: Every milestone, no matter how small, deserves recognition! 🎊  
+- **Learn from Setbacks**: Challenges are just opportunities in disguise. 💪
+
+---
+
+✨ **Let's make "The Visualisers" a force to be reckoned with—creating visually stunning, user-centric digital experiences!** ✨
